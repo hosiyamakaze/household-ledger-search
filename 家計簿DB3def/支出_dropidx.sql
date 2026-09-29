@@ -1,4 +1,4 @@
-drop index xo_idx00;
+drop index æ”¯å‡º_idx00;
 
-drop index xo_idx01;
+drop index æ”¯å‡º_idx01;
 
