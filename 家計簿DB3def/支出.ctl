@@ -1,7 +1,7 @@
->cd G:\CMD\家計簿DB3data
->sqlite3 家計簿.db3
-drop table 支出STR;
+>cd G:\CMD\螳ｶ險育ｰｿDB3data
+>sqlite3 螳ｶ險育ｰｿ.db3
+drop table 謾ｯ蜃ｺSTR;
 .mode csv
 .separator "\t"
-.import ./支出.CSV 支出STR
+.import ./謾ｯ蜃ｺ.CSV 謾ｯ蜃ｺSTR
 .exit
