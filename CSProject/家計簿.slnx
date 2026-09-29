@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="SrchTextCSConDB3/SrchTextCSConDB3.csproj" Id="96ace9b0-0734-490c-bb05-41211e3e7916">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="SrchTextCSWinDB3/SrchTextCSWinDB3.csproj" Id="a18a75b8-bb40-42f8-a718-ce47ab7a7bef">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
